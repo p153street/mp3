@@ -1,0 +1,123 @@
+{ 
+    
+    "Iklan": [
+        {
+        "status": "0",
+        "link": "https://play.google.com/store/apps/details?id=com.garamsong.djivin",
+        "interid": "ca-app-pub-3940256099942544/1033173712",
+        "bannerid":"ca-app-pub-3940256099942544/6300978111",
+        "openid":"ca-app-pub-3940256099942544/1033173712",
+        "pengaturan_iklan":"3",
+        "fan_inter":"YOUR_PLACEMENT_ID",
+        "fan_banner":"YOUR_PLACEMENT_ID",
+   	  	"startappid":"123456789"
+		"Applovin":""
+        }
+    ],
+    
+    "Category": [
+    {
+      "id" : 1,
+      "host" : "Khalid Basalamah",
+      "gambar" : "https://carapandang.com/assets/images/news/carapandang-30506.jpg"
+    },
+    {
+      "id" : 2,
+      "host" : "Hanan Attaki",
+      "gambar" : "https://cdn2.boombastis.com/wp-content/uploads/2019/03/Menilik-Masjid-Gaul-di-Indonesia-Ala-Ustadz-Hanan-Attaki-Ada-Apa-Sebenarnya.jpg"
+    },
+    {
+      "id" : 3,
+      "host" : "Mr. Kim",
+      "gambar" : "https://aliendro.id/uploads/profile/avatar_5f7660fda38de1-39888056-68757770.jpg"
+    }
+  ],
+
+  "music": [
+    {
+      "id" : 1,
+      "judul" : "Nasihat kepada yang malas ibadah",
+      "host" : "Khalid Basalamah",
+      "gambar" : "http://storage.googleapis.com/automotive-media/album_art.jpg",
+      "link_mp3" : "http://hexa.web.id/malas_ibadah.mp3",
+      "lirik" : "http://hexa.web.id/contoh_text.html",
+      "durasi" : 52
+    },
+    {
+      "id" : 2,
+      "judul" : "Dosa hanya akan membawa keburukan",
+      "host" : "Khalid Basalamah",
+      "gambar" : "http://storage.googleapis.com/automotive-media/album_art.jpg",
+      "link_mp3" : "http://hexa.web.id/dosa_membawa_keburukan.mp3",
+      "lirik" : "http://hexa.web.id/contoh_text.html",
+      "durasi" : 76
+    },
+    {
+      "id" : 3,
+      "judul" : "Cinta dalam diam",
+      "host" : "Hanan Attaki",
+      "gambar" : "http://storage.googleapis.com/automotive-media/album_art.jpg",
+      "link_mp3" : "http://hexa.web.id/cinta_diam.mp3",
+      "lirik" : "http://hexa.web.id/contoh_text.html",
+      "durasi" : 76
+    },
+
+    {
+      "id" : 4,
+      "judul" : "Janji Allah Kepada yang bertaqwa",
+      "host" : "Khalid Basalamah",
+      "gambar" : "http://storage.googleapis.com/automotive-media/album_art.jpg",
+      "link_mp3" : "http://hexa.web.id/janji_allah.mp3",
+      "lirik" : "http://hexa.web.id/contoh_text.html",
+      "durasi" : 76
+    },
+    {
+      "id" : 5,
+      "judul" : "Balikan lagi, jangan?",
+      "host" : "Hanan Attaki",
+      "gambar" : "http://storage.googleapis.com/automotive-media/album_art.jpg",
+      "link_mp3" : "http://hexa.web.id/balikan_lagi.mp3",
+      "lirik" : "http://hexa.web.id/contoh_text.html",
+      "durasi" : 76
+    },
+    {
+      "id" : 6,
+      "judul" : "Dibalik kesulitan ada kemudahan",
+      "host" : "Hanan Attaki",
+      "gambar" : "http://storage.googleapis.com/automotive-media/album_art.jpg",
+      "link_mp3" : "http://hexa.web.id/kemudahan.mp3",
+      "lirik" : "http://hexa.web.id/contoh_text.html",
+      "durasi" : 76
+    },
+    {
+      "id" : 7,
+      "judul" : "Musabahat Diri Sendiri",
+      "host" : "Khalid Basalamah",
+      "gambar" : "http://storage.googleapis.com/automotive-media/album_art.jpg",
+      "link_mp3" : "http://hexa.web.id/musabahat.mp3",
+      "lirik" : "http://hexa.web.id/contoh_text.html",
+      "durasi" : 76
+    },
+    {
+      "id" : 8,
+      "judul" : "Orang yang bangkrut",
+      "host" : "Khalid Basalamah",
+      "gambar" : "http://storage.googleapis.com/automotive-media/album_art.jpg",
+      "link_mp3" : "http://hexa.web.id/bangkrut.mp3",
+      "lirik" : "http://hexa.web.id/contoh_text.html",
+      "durasi" : 76
+    }
+  ,
+    {
+      "id" : 9,
+      "judul" : "Peringatan Allah terhadap dosa kita",
+      "host" : "Khalid Basalamah",
+      "gambar" : "http://storage.googleapis.com/automotive-media/album_art.jpg",
+      "link_mp3" : "http://hexa.web.id/peringatan_dosa.mp3",
+      "lirik" : "http://hexa.web.id/contoh_text.html",
+      "durasi" : 76
+    }
+  ]
+
+}
+}
